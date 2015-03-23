@@ -1,5 +1,5 @@
 # MascotRace
-### Contributers: Eric, Kwazi and Meir
+### Contributers: Eric, Kwasi and Meir
 GA exercise for the Mascot race
 
 
